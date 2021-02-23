@@ -11,7 +11,7 @@ If you are not familiar with slack, I encourage you to watch this short video: h
 - #03-resources - Resources to help you on your way.
 - #04-shout-outs - Show a little appreciation for somebody!
 - #announcements - Important class announcements.
-- #attendance-errors - Please post your attendance errors in this channel for review. | Tag a TA for same-day. | Email jdiehl@bootcampspot.com for after.
+- #attendance-errors - Please post your attendance errors in this channel for review. | Tag a TA for same-day. | Email ******** for after.
 - #introductions - Get to know each other!
 - #parking-lot - In-class questions go here! Instructional Staff will respond as quickly as possible.
 - #pets - Share a picture of your pet!
